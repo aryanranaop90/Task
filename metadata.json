@@ -1,0 +1,6 @@
+{
+  "name": "Rewarded Tasks",
+  "description": "A simple task app integrating Unity Rewarded Ads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
